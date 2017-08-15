@@ -3,6 +3,8 @@ functions to migrate php5 to php7
 
 Migrate your php5 to php7...
 
+backwards compatibility old php functions
+
 put this content to override old php5 functions... works like a charm!!!
 
 <code>
